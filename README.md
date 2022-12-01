@@ -1,2 +1,2 @@
 # advent-of-code-2022
- Advent of code 2022 python solution codes.
+ Advent of code 2022 javascript solution codes.
