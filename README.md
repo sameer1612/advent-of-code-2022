@@ -1,5 +1,5 @@
 # advent-of-code-2022
-### AAdvent of code 2022 JavaScript solutions.
+### Advent of code 2022 JavaScript solutions.
 
 <br/>
 
