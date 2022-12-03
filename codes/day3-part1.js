@@ -12,9 +12,7 @@ function calculatePriority(input) {
 
   for (const rucksack of rucksacks) {
     const c1 = new Set(rucksack.slice(0, rucksack.length / 2).split(""));
-    const c2 = new Set(
-      rucksack.slice(rucksack.length / 2, rucksack.length).split("")
-    );
+    const c2 = new Set(rucksack.slice(rucksack.length / 2).split(""));
 
     commons = [...commons, ...getIntersection(c1, c2)];
   }
