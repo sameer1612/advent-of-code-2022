@@ -1,6 +1,9 @@
 # advent-of-code-2022
-### Advent of code 2022 JavaScript solutions.
 
+
+![Advent of code 2022](https://github.com/sameer1612/advent-of-code-2022/blob/main/DvOwWhTUcAAz3ms.jpeg)
+
+### Advent of code 2022 JavaScript solutions.
 <br/>
 
 | Problem | Part 1 code | Part 2 code |
