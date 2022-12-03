@@ -1,7 +1,7 @@
 # advent-of-code-2022
 
 
-![Advent of code 2022](https://github.com/sameer1612/advent-of-code-2022/blob/main/DvOwWhTUcAAz3ms.jpeg)
+![Advent of code 2022](https://github.com/sameer1612/advent-of-code-2022/blob/main/chopper.jpeg)
 
 <br/>
 
