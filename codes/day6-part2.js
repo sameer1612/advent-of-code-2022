@@ -1,7 +1,7 @@
 function calculateResult(input) {
   for (let i = 0; i < input.length; i++) {
-    const fourChars = input.slice(i, i + 14);
-    if (new Set(fourChars).size === fourChars.length) {
+    const forteenChars = input.slice(i, i + 14);
+    if (new Set(forteenChars).size === forteenChars.length) {
       return i + 14;
     }
   }
