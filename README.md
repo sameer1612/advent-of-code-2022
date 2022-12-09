@@ -16,3 +16,4 @@
 |[Day 6](https://adventofcode.com/2022/day/6)|[Part 1 code](https://github.com/sameer1612/advent-of-code-2022/blob/main/codes/day6-part1.js)|[Part 2 code](https://github.com/sameer1612/advent-of-code-2022/blob/main/codes/day6-part2.js)|
 |[Day 7](https://adventofcode.com/2022/day/7)|[Part 1 code](https://github.com/sameer1612/advent-of-code-2022/blob/main/codes/day7-part1.js)|[Part 2 code](https://github.com/sameer1612/advent-of-code-2022/blob/main/codes/day7-part2.js)|
 |[Day 8](https://adventofcode.com/2022/day/8)|[Part 1 code](https://github.com/sameer1612/advent-of-code-2022/blob/main/codes/day8-part1.js)|[Part 2 code](https://github.com/sameer1612/advent-of-code-2022/blob/main/codes/day8-part2.js)|
+|[Day 9](https://adventofcode.com/2022/day/9)|[Part 1 code](https://github.com/sameer1612/advent-of-code-2022/blob/main/codes/day9-part1.js)|[Part 2 code](https://github.com/sameer1612/advent-of-code-2022/blob/main/codes/day9-part2.js)|
