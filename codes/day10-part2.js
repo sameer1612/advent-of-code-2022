@@ -19,7 +19,7 @@ function calculateResult(input) {
   for (let i = 0; i < width * height; i++) {
     const type = instructions[instructionIndex].split(" ")[0];
 
-    pixels[i] = Math.abs(x - (i % 40)) <= 1 ? "|" : " ";
+    pixels[i] = Math.abs(x - (i % 40)) <= 1 ? "#" : ".";
 
     switch (type) {
       case "noop": {
