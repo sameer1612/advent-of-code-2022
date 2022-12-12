@@ -4,7 +4,7 @@
 
 &nbsp;
 
-## Advent of code 2022 JavaScript solutions
+## Advent of code 2022 JavaScript solutions [Using deno runtime]
 
 | Problem | Part 1 code | Part 2 code |
 |-------------------|-------------|-------------|
